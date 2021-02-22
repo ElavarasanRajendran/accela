@@ -6,11 +6,11 @@ The list of operations implemented are provided below,
 
 1. Add Person
 2. Edit Person 
-3.Delete Person
-4.Add Address to Person
-5.Edit Address
-6.Delete Address
-7.Count number of Persons
+3. Delete Person
+4. Add Address to Person
+5. Edit Address
+6. Delete Address
+7. Count number of Persons
 8. List All Persons 
 
 This application can be easily plugged on to the web by importing spring starter web and autowiring it with the required controllers
